@@ -1,0 +1,9 @@
+.thumbnail-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+.thumbnail-url {
+  height: 60px;
+  width: 70px;
+}
